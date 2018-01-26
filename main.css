@@ -1,0 +1,28 @@
+.box {
+    position: absolute;
+    top: 90px;
+    left: 450px;
+    width: 350px;
+    height: 500px;
+    border: transparent;
+    color: white;
+}
+
+.signupbox {
+    background-image: url("https://hedgecombers.com/wp-content/uploads/2017/06/New-York-Bagels-1419.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+
+.box1 {
+    text-align: center;
+    font-style: italic;
+    color:forestgreen;
+
+}
+
+
+
+
+
